@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    background-image: url(../img/cupcake.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+ h1{
+    color: skyblue;
+    font-size: 40px;
+}  
+.logo{
+    background-color: chocolate;
+    padding: 20px;
+}
+
+.logo h1{
+    font-size: 40px;
+    text-align: center;
+    color: skyblue;
+}
+
+p{
+    font-size: 25px;
+}
+
+ul li{
+    font-size: 25px;
+}
+
+h2{
+    color: skyblue;
+    font-size: 40px;
+}
