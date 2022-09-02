@@ -1,11 +1,11 @@
 *{
-    padding: 0;
     margin: 0;
+    padding: 0;
 }
 
 
 body{
-    background-image: url(../img/cupcake.jpg);
+    background-image: url(../img/download.jfif);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -25,20 +25,20 @@ body{
     color: skyblue;
 }
 
-p{
+ p{
     font-size: 25px;
     color: chocolate;
 }
 
 ul li{
     font-size: 25px;
+    color: chocolate;
 }
 
 h2{
     color: skyblue;
     font-size: 40px;
 }
-
 
 .logo a{
     color: white;
